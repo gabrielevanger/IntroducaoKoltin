@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Introduction</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="button_change_image">Change image</string>
+</resources>
